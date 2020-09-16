@@ -1,3 +1,3 @@
 # GifExpertapp
 
-Una aplicación para motrar gif consumidos de desde una api de Gifhy
+Una aplicación para motrar gif consumidos de desde una api de Giphy
